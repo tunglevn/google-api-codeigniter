@@ -14,7 +14,7 @@ Library google for Codeigniter: Application/libraries/google_library.php
 Use library in controller: $this->load->library('google_library',NULL,'google');
 
 
-## 16 05 2015 ##
+## Youtube ##
 
 Build youtube library: Application/libraries/google/youtube_google.php
 
